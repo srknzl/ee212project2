@@ -1,0 +1,7 @@
+Topic : Staircase ramp ADC
+
+The goal is to find 3 links and 3 videos that explains this topic the best.
+At the end, write a 1 page report to explain what lead you to decide like that. 
+
+
+http://www.eeeguide.com/principles-of-adc/
