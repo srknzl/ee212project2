@@ -3,5 +3,48 @@ Topic : Staircase ramp ADC
 The goal is to find 3 links and 3 videos that explains this topic the best.
 At the end, write a 1 page report to explain what lead you to decide like that. 
 
+Links:
+1- http://www.eeeguide.com/principles-of-adc/
 
-http://www.eeeguide.com/principles-of-adc/
+In this link staircase ramp ADC is explained beautifully because this is the first
+link I am reading and I understand the topic very well. In the site there are figures,
+such as internal circutry of staircase ramp adc, illustration of the "stair" concept. 
+I liked these figures.
+
+2- https://www.allaboutcircuits.com/textbook/digital/chpt-13/digital-ramp-adc/
+
+In this site there is a figure that is very good. It shows an anolog circuit in green
+color and digital staircase steps as red under it. Another plot under it shows the 
+corresponding digital points decided. This helped me to understand how the circuit 
+works when input analog signal is not stationary. Moreover, I also understood that faster 
+counters are better. Second, since this site has a figure that is describing the internal
+representation of the circuit in a more detailed way, I understood counter is resetted 
+when the signal exceeds input signal. Third, this site gave this insight: the lower the input's 
+signal power is lower the shorter distance between the corresponding digital points. Foutrh,
+I found two different and good disadvanteges of the staircase ramp adc with good justification.
+
+3- http://hyperphysics.phy-astr.gsu.edu/hbase/Electronic/adc.html#c2
+
+I liked this explanation because there are explanatory texts in the image of internal representation
+of the circuit. Next to every component in the circuit, the explanation exists. 
+
+Videos:
+1-https://www.youtube.com/watch?v=ktn7w8yv4Tg
+
+In this video, there is a woman describing the concept very well and slowly. I liked the explanation.
+Also she points out the "digital" and "analog" concepts very well. Again, she explains why we call 
+counter type to this type perfectly. The diagram, fluence, everything was good. 
+
+2-https://www.youtube.com/watch?v=mj7rNMPopCA
+In this video, diagrams and text that are written on the notebook are very clear, this is plus. 
+Another upvote that I give to this video is, he follows through circuit and explains what happens
+where. At the end, he explains what resolution is and what is its formula. The conversion from analog
+sinusoidal signal is shown by drawing analog signal and stair underneath it.
+
+
+3-https://www.youtube.com/watch?v=UUBz-8PNZhA
+
+The sound is good, fluency is good also. There is not a face looking to you, you follow it from paper,
+but quality is good. First, classification of adcs is done which is good. He gave example of truth table
+to show how conversion results would be.
+
